@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPhoneAuth</string>
+
+    <string name="unknown_error">Error desconocido</string>
+    <string name="sign_in_cancelled">Ingreso cancelado</string>
+    <string name="no_internet_connection">Sin conexión a internet</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="delete">Eliminar cuenta</string>
+    <string name="delete_account_failed">No se pudo eliminar su cuenta</string>
+    <string name="unknown_sign_in_response">Respuesta desconocida al autenticarse</string>
+</resources>
